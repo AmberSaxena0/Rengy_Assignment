@@ -1,0 +1,33 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "appsource/assets/fonts/index.tsx",
+      "sha1": "a88d385fab96f1e45a897f7e6d36f263b4053682"
+    },
+    {
+      "path": "appsource/assets/fonts/OpenSans-Bold.ttf",
+      "sha1": "c7e6b913f990299fcc5928f4581727972e869727"
+    },
+    {
+      "path": "appsource/assets/fonts/OpenSans-ExtraBold.ttf",
+      "sha1": "725bb4afb0eb261acea24bd8dc6d1fc106fb9890"
+    },
+    {
+      "path": "appsource/assets/fonts/OpenSans-Light.ttf",
+      "sha1": "6236023a78c3031a26e7093881cceeae50ad036f"
+    },
+    {
+      "path": "appsource/assets/fonts/OpenSans-Medium.ttf",
+      "sha1": "1632123e8a78dd095fb987c0cb2ad05063e0648a"
+    },
+    {
+      "path": "appsource/assets/fonts/OpenSans-Regular.ttf",
+      "sha1": "576aa669c4ceb3830fde859a4db52916def172af"
+    },
+    {
+      "path": "appsource/assets/fonts/OpenSans-SemiBold.ttf",
+      "sha1": "344041aeaad9e07a186cc3a937df915e5d98936f"
+    }
+  ]
+}
